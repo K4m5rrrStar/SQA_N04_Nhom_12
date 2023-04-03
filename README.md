@@ -2,5 +2,7 @@
 Dự án học phần đánh giá và kiểm định chất lượng phần mềm.
 
 ## Thành viên
-- Nguyễn Văn A
-- Lò Văn B
+1.Đỗ Minh Quân( Leader )
+2.Nguyễn Văn Minh
+3.Lại Tiến Đức
+4.Nguyễn Hoàng Anh
